@@ -1,0 +1,8 @@
+body{
+    background-color: bisque;
+    font-style: italic;
+}
+button:hover{
+    background-color: black;
+    color: azure;
+}
